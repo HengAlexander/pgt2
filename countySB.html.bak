@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>General Information</title>
+		<title>Fingertip Facts Brochure</title>
 
 		<meta name="description" content="A three dimensional and space efficient menu created with JavaScript and CSS 3.">
 		<meta name="author" content="Hakim El Hattab">
@@ -21,14 +21,14 @@
 		<div class="meny">
 			<h2>Directory</h2>
 			<ul>
-				<li><a href="1">General Information</a></li>
-				<li><a href="2">County Superintendent & Board</a></li>
+				<li><a href="GenInfo.html">General Information</a></li>
+				<li><a href="countySB.html">County Superintendent & Board</a></li>
 				<li><a href="SuperIntendents.html">Superintendents</a></li>
-				<li><a href="3">County & School District Information</a></li>
-				<li><a href="4">Teacher Information</a></li>
-				<li><a href="5">Enrollment In Other Programs</a></li>
-				<li><a href="6">Community College Districts</a></li>
-				<li><a href="7">School Districts</a></li>
+				<li><a href="countySDI.html">County & School District Information</a></li>
+				<li><a href="teacherInfo.html">Teacher Information</a></li>
+				<li><a href="enrollmentPrograms">Enrollment In Other Programs</a></li>
+				<li><a href="cCollegeDis.html">Community College Districts</a></li>
+				<li><a href="schoolDis.html">School Districts</a></li>
 				
 			</ul>
 		</div>
@@ -37,29 +37,25 @@
 
 		<div class="contents">
 			<article>
-				<center>
-				<h1>General Information</h1>
-				
-				<p>
-					San Bernadino County Superintendent of Schools<BR>
-					601 North E. Street San Bernadino CA 92415-0020
-				</p>
-				<p>
-				General Information <BR>(909)888-3228 <BR>FAX (909) 386=2478<br>
-				http://www.sbcss.k12.ca.us
-				</p>
+			<center>
+				<h1>County Superintendent & Board</h1>
 				</center>
 				<p>
-				San Bernardino County Superintendent of Schools (SBCSS) acts as 
-				an intermediate service agency between the state and local school 
-				districts to help meet the educational needs of all children countywide.
-				Besides the main office in downtown San Bernardino, SBCSS has 
-				business offices in Colton and northern San Bernardino, plus service 
-				centers in Rancho Cucamonga and Apple Valley
+					COUNTY SUPERINTENDENT & EXECUTIVE STAFF<BR><BR><BR>
+Gary S. Thomas,Ed.D. .....Superintendent<BR>
+Ted Alejandre .....Asst. Superintendent, Business Services<BR>
+Randy Elphic ......Asst. Superintendent, Student Services<BR>
+Beth Higbee, Ph.D. .....Asst. Superintendent, Education Support Services<BR>
+Lisa Norman, Ed.D. .....Asst. Superintendent, Human Resources<BR>
+COUNTY BOARD OF EDUCATION<BR><BR><BR>
+Mark Sumpter .....Trustee Area A<BR>
+Bette Harrison .....Trustee Area B<BR>
+Laura Abernathy Mancha .....Trustee Area C<B>
+Gil Navarro .....Trustee Area D<BR>
+Alen Ritchie .....Trustee Area E<BR><BR>
+Regular County Board of Education meetings are held on the first Monday of each month.
 				</p>
-			
-				
-			
+		
 			</article>
 
 			

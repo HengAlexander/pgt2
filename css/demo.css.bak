@@ -65,7 +65,6 @@ h2 {
 		margin-top: 10px;
 	}
 		.meny ul li {
-			color: white;
 			display: inline-block;
 			width: 200px;
 			list-style: none;
